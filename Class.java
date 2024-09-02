@@ -1,4 +1,4 @@
-public class ejecutar {
+public class Class {
     public static void main(String[] args) {
         
         //Comentarios de una sola línea
